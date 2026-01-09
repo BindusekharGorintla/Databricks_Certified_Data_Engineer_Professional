@@ -2,9 +2,6 @@
 
 This repository contains code, configuration, and documentation for building scalable data engineering pipelines on **Databricks** using **Python, SQL, Spark, and Lakeflow Declarative Pipelines**. It is optimized for **Databricks Asset Bundles (DABs)**, enabling modular development, automated deployment, and CI/CD integration.
 
----
-
-## 📂 Project Scope
 
 ### 1. Code Development
 - Modular Python project structure for Databricks Asset Bundles.
